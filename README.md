@@ -12,13 +12,13 @@
 
 ## Installing / Uninstalling
 
+TODO
+
 
 
 ## Join our Support/Community Server
 
 TODO
-
-## Sponsors
 
 
 
